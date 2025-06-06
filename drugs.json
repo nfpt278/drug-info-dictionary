@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Paracetamol",
+        "ingredient": "Paracetamol 500mg",
+        "usage": "Pain reliever and fever reducer",
+        "form": "Tablet"
+    },
+    {
+        "name": "Amoxicillin",
+        "ingredient": "Amoxicillin 500mg",
+        "usage": "Antibiotic for bacterial infections",
+        "form": "Capsule"
+    },
+    {
+        "name": "Loratadine",
+        "ingredient": "Loratadine 10mg",
+        "usage": "Allergy relief (antihistamine)",
+        "form": "Tablet"
+    }
+]
